@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Funprime Assesment</string>
+    <string name="this_is_splash_fragment">This is Splash Fragment</string>
+    <string name="image_of_recycler_item">Image of recycler item</string>
+    <string name="real_image">Real image</string>
+    <string name="no_internet">No Internet!</string>
+</resources>
